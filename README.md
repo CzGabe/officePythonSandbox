@@ -1,7 +1,7 @@
 # officePythonSandbox
  Some simple tutorials for using python at the office.
 
-##Setup
+## Setup
 The codes were created with the following setup:
  * Windows
  * Anaconda
